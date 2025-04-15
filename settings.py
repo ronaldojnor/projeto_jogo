@@ -1,0 +1,19 @@
+WIDTH = 800
+HEIGHT = 600
+FPS = 60
+PLAYER_SPEED = 5
+BULLET_SPEED = 10
+ENEMY_SPEED = 2
+ENEMY_HEALTH = 10
+ENEMY_DAMAGE = 10  # << novo: dano base dos inimigos
+WAVE_INTERVAL = 30  # << atualizado para 30 segundos
+XP_PER_ENEMY = 5
+COINS_PER_ENEMY = 3
+XP_BASE = 50
+XP_MULTIPLIER = 1.5
+
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+BLUE = (0, 0, 255)
