@@ -30,11 +30,11 @@ A cada nova wave, os inimigos se tornam mais perigosos — mas você também pod
 
 ## 💡 Melhorias futuras
 
-🎵 Sons de tiro, dano, level up e música de fundo
-🌟 Efeitos visuais aprimorados (explosões, partículas)
-🛡️ Inimigos com tipos diferentes (tanque, rápido, explosivo)
-🏆 Sistema de pontuação e recordes (highscore)
-💾 Salvamento de progresso (nível, moedas, upgrades)
-📜 Tela inicial, menu de pausa e opções
-🔥 Animação de “Game Over” e transições suaves
-📜 Loja com interface gráfica mais estilizada
+- 🎵 Sons de tiro, dano, level up e música de fundo
+- 🌟 Efeitos visuais aprimorados (explosões, partículas)
+- 🛡️ Inimigos com tipos diferentes (tanque, rápido, explosivo)
+- 🏆 Sistema de pontuação e recordes (highscore)
+- 💾 Salvamento de progresso (nível, moedas, upgrades)
+- 📜 Tela inicial, menu de pausa e opções
+- 🔥 Animação de “Game Over” e transições suaves
+- 📜 Loja com interface gráfica mais estilizada
